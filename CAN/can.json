@@ -1,0 +1,313 @@
+{
+  "intents": [
+    {
+      "tag": "introduction",
+      "patterns" : [
+        "Can you introduce CAN organization?",
+        "Tell me about the CAN organization",
+        "What is the purpose of CAN Federation?",
+        "Give me information about the CAN Federation",
+        "Explain what CAN Federation does",
+        "More information about CAN",
+        "What is CAN?",
+        "can you explain me about CAN?",
+        "Can you introduce the CAN Federation?",
+        "What is the CAN organization about?",
+        "Describe the purpose of the CAN organization.",
+        "What does the CAN Federation do?",
+        "Tell me what CAN is.",
+        "Provide details about the CAN Federation.",
+        "What are the activities of the CAN organization?",
+        "How does the CAN Federation operate?",
+        "Can you give me an overview of CAN?",
+        "Explain the role of CAN Federation.",
+        "What is the mission of CAN Federation?",
+        "What kind of organization is CAN?",
+        "Can you tell me about CAN and its purpose?",
+        "What is the focus of CAN Federation?",
+        "Give a brief introduction to CAN Federation.",
+        "What are the goals of the CAN organization?",
+        "How does CAN Federation contribute to the ICT sector?",
+        "Explain the objectives of the CAN Federation.",
+        "Can you provide an insight into the CAN organization?",
+        "What is the vision of CAN Federation?",
+        "What initiatives does CAN Federation undertake?",
+        "Can you elaborate on the work of CAN Federation?",
+        "What is the structure of the CAN organization?",
+        "What kind of work does CAN Federation do?",
+        "What services does CAN Federation provide?",
+        "Can you explain the function of CAN?",
+        "What is the purpose behind CAN Federation?",
+        "What is the nature of the CAN organization?",
+        "How does CAN Federation serve the ICT community?",
+        "What is CAN Federation's main objective?"
+    ],
+    "responses" : [
+        "यो संस्था आईसीटी संस्था, संघ संस्थादेखि यस क्षेत्रमा कार्यरत व्यक्तिसम्मका सदस्यहरुको आधार रहेको एक ढाँचागत संस्था हो। क्यान महासंघले स्वतन्त्र, गैर राजनीतिक, गैर पक्षपातपूर्ण, नाफामुखी तथा सेवामुखी आईसीटी क्षेत्रको रेखासँग मिलेर काम गर्दछ।",
+        "क्यान महासंघ आईसीटी क्षेत्रका संघ संस्थाहरु र यस क्षेत्रमा कार्यरत व्यक्तिहरुको एक ढाँचागत संस्था हो। यसले स्वतन्त्र, गैर राजनीतिक, गैर पक्षपातपूर्ण, नाफामुखी र सेवामुखी रुपमा आईसीटी क्षेत्रको प्रगति र विकासका लागि काम गर्दछ।",
+        "आईसीटी क्षेत्रमा कार्यरत संघ संस्था र व्यक्तिहरुको एक महत्वपूर्ण संस्था क्यान महासंघ हो। यो संस्था स्वतन्त्र, गैर राजनीतिक, नाफामुखी र सेवामुखी रुपमा आईसीटी क्षेत्रको उन्नति र विकासमा योगदान पुर्याउँछ।",
+        "क्यान महासंघ एक ढाँचागत संस्था हो जसमा आईसीटी संघ संस्थाहरु र यस क्षेत्रमा कार्यरत व्यक्तिहरु सदस्य हुन्छन्। यसले स्वतन्त्र, गैर राजनीतिक, गैर पक्षपातपूर्ण, नाफामुखी र सेवामुखी रुपमा काम गर्दछ।",
+        "क्यान महासंघ एक प्रमुख आईसीटी संस्था हो जसमा यस क्षेत्रमा कार्यरत संघ संस्था र व्यक्तिहरु सदस्य छन्। यो संस्था स्वतन्त्र, गैर राजनीतिक, नाफामुखी र सेवामुखी ढाँचामा आईसीटी क्षेत्रको विकासमा क्रियाशील छ।",
+        "आईसीटी क्षेत्रमा कार्यरत संघ संस्थाहरु र व्यक्तिहरु मिलेर बनेको एक महत्वपूर्ण संस्था क्यान महासंघ हो। यसले स्वतन्त्र, गैर राजनीतिक, गैर पक्षपातपूर्ण, नाफामुखी र सेवामुखी रुपमा काम गर्दछ।",
+        "क्यान महासंघ आईसीटी क्षेत्रका संघ संस्था र व्यक्तिहरुको प्रतिनिधित्व गर्ने एक महत्वपूर्ण संस्था हो। यसले स्वतन्त्र, गैर राजनीतिक, नाफामुखी र सेवामुखी रुपमा आईसीटी क्षेत्रको विकासमा योगदान पुर्याउँछ।",
+        "क्यान महासंघ एक ढाँचागत संस्था हो जसमा आईसीटी संघ संस्था र यस क्षेत्रमा कार्यरत व्यक्तिहरु सदस्य हुन्छन्। यसले स्वतन्त्र, गैर राजनीतिक, गैर पक्षपातपूर्ण, नाफामुखी र सेवामुखी रुपमा आईसीटी क्षेत्रको प्रगति र विकासमा योगदान पुर्याउँछ।",
+        "आईसीटी क्षेत्रमा कार्यरत संघ संस्था र व्यक्तिहरुको एक प्रमुख संस्था क्यान महासंघ हो। यो संस्था स्वतन्त्र, गैर राजनीतिक, नाफामुखी र सेवामुखी रुपमा काम गर्दछ।",
+        "क्यान महासंघ आईसीटी क्षेत्रका संघ संस्थाहरु र यस क्षेत्रमा कार्यरत व्यक्तिहरुको एक ढाँचागत संस्था हो। यसले स्वतन्त्र, गैर राजनीतिक, गैर पक्षपातपूर्ण, नाफामुखी तथा सेवामुखी आईसीटी क्षेत्रको रेखासँग मिलेर काम गर्दछ।"
+    ],
+      "context": [""]
+    },
+    {
+      "tag": "establishment",
+      "patterns" : [
+        "When was CAN founded?",
+        "Tell me about the establishment of the CAN",
+        "When did CAN Federation start?",
+        "What is the origin of CAN?",
+        "History of the CAN Federation establishment",
+        "Since when did CAN began operating?",
+        "Since when did CAN begin?",
+        "When was CAN organization formed?",
+        "Tell me about the founding of CAN",
+        "When did the CAN Federation get established?",
+        "How did CAN come into existence?",
+        "What is the history behind CAN's establishment?",
+        "From which year did CAN start its operations?",
+        "In which year was CAN founded?",
+        "Can you tell me the founding year of CAN?",
+        "What year did CAN begin?",
+        "When was CAN officially registered?",
+        "Give me the timeline of CAN's establishment",
+        "What year was CAN Federation officially formed?",
+        "What is the backstory of CAN's foundation?",
+        "When was this organization established?"
+    ],
+    "responses" : [
+        "नेपालको कम्प्युटर संघ (क्यान) सन् १९९२ को मे महिनामा गठन भएको थियो तर सन् १९९२ को डिसेम्बरमा औपचारिक रुपमा दर्ता भएको थियो र पछि सन् २०१५ को जनवरीमा नेपालको सूचना तथा सञ्चार प्रविधि क्षेत्रका व्यवसायी, विशेषज्ञ, संस्था तथा सम्बन्धित संस्थाहरुको सहभागितामा कम्प्युटर संघ नेपालको महासंघ (क्यान महासंघ) को रुपमा दर्ता भएको थियो ।",
+        "कम्प्युटर संघ नेपाल (क्यान) सन् १९९२ को मे महिनामा स्थापना भएको थियो। यो संस्था सन् १९९२ को डिसेम्बरमा औपचारिक रुपमा दर्ता भयो र पछि सन् २०१५ को जनवरीमा आईसीटी क्षेत्रका व्यवसायी, विशेषज्ञ र संघ संस्थाहरुको सहभागितामा क्यान महासंघको रुपमा दर्ता भयो।",
+        "क्यान (कम्प्युटर संघ नेपाल) सन् १९९२ को मे महिनामा गठन भयो। डिसेम्बर १९९२ मा यो संस्था औपचारिक रुपमा दर्ता भयो। पछि सन् २०१५ को जनवरीमा यसलाई आईसीटी क्षेत्रका व्यवसायी, विशेषज्ञ र संस्थाहरुको सहभागितामा क्यान महासंघको रुपमा दर्ता गरियो।",
+        "नेपालको कम्प्युटर संघ (क्यान) मे १९९२ मा स्थापना भएको थियो। डिसेम्बर १९९२ मा यो संस्था औपचारिक रुपमा दर्ता भयो। पछि सन् २०१५ को जनवरीमा सूचना तथा सञ्चार प्रविधि क्षेत्रका व्यवसायी, विशेषज्ञ र संघ संस्थाहरुको सहभागितामा क्यान महासंघको रुपमा दर्ता भयो।",
+        "क्यान (कम्प्युटर संघ नेपाल) सन् १९९२ को मे महिनामा गठन भएको थियो। यो संस्था डिसेम्बर १९९२ मा औपचारिक रुपमा दर्ता भयो र पछि सन् २०१५ को जनवरीमा आईसीटी क्षेत्रका व्यवसायी, विशेषज्ञ र संघ संस्थाहरुको सहभागितामा क्यान महासंघको रुपमा दर्ता भयो।",
+        "नेपालको कम्प्युटर संघ (क्यान) मे १९९२ मा गठन भएको थियो। यो संस्था डिसेम्बर १९९२ मा औपचारिक रुपमा दर्ता भयो। पछि सन् २०१५ को जनवरीमा यसलाई सूचना तथा सञ्चार प्रविधि क्षेत्रका व्यवसायी, विशेषज्ञ र संघ संस्थाहरुको सहभागितामा क्यान महासंघको रुपमा दर्ता गरियो।",
+        "कम्प्युटर संघ नेपाल (क्यान) सन् १९९२ को मे महिनामा स्थापना भएको थियो। यो संस्था डिसेम्बर १९९२ मा औपचारिक रुपमा दर्ता भयो। पछि सन् २०१५ को जनवरीमा यसलाई आईसीटी क्षेत्रका व्यवसायी, विशेषज्ञ र संघ संस्थाहरुको सहभागितामा क्यान महासंघको रुपमा दर्ता गरियो।"
+    ],
+      "context": [""]
+    },
+    {
+      "tag": "objectives",
+      "patterns" : [
+        "What are the objectives of can organization?",
+        "Describe the goals of the organization",
+        "What aims does can have?",
+        "What is the mission of the can organization?",
+        "What are the objectives of can federation",
+        "What are the main goals of CAN?",
+        "Can you tell me the objectives of CAN?",
+        "What are CAN's aims?",
+        "What is the purpose of this organization.",
+        "What is the main purpose of CAN?",
+        "What are can's goals?",
+        "What are the organization's goals?",
+        "what are the organization's main goal?"
+    ],
+    "responses" : [
+        "क्यानको लक्ष्यहरू यस प्रकार छन्। १. देशभित्र सूचना तथा कम्प्युटर प्रविधिको उपयोग, बृद्धि तथा प्रचार प्रसारमा सहयोग गर्ने र निजी सूचना तथा सञ्चार प्रविधि संस्थालाई सुविधा दिने प्रमुख निकायको भूमिका निर्वाह गर्ने । २. कम्प्युटर विज्ञान सम्बन्धी साक्षरता र सीप विकासका लागि आवश्यक आवश्यकता पूरा गर्न रणनीति विकास गर्न सहयोग गर्ने । ३. क्यान महासंघसँग आबद्ध व्यक्ति, संस्था, कम्पनी तथा संस्थालाई अधिकार र विशेषाधिकार, लाभ प्रदान र संरक्षण गर्ने । ४. क्यान महासंघका सामान्य, कर्पोरेट तथा मानार्थ सदस्यहरुलाई सहयोग तथा सुविधा प्रदान गर्ने । ५. सरकारी समन्वयमा सूचना तथा सञ्चार प्रविधिहरुको वकालत, परामर्श तथा कार्यान्वयन सुनिश्चित गर्ने ।",
+        "क्यानको उद्देश्यहरू निम्न प्रकार छन्। १. सूचना तथा कम्प्युटर प्रविधिको उपयोग, बृद्धि र प्रचार प्रसारमा सहयोग पुर्याउने । २. कम्प्युटर विज्ञान सम्बन्धी साक्षरता र सीप विकासका लागि आवश्यक रणनीति विकासमा सहयोग गर्ने । ३. क्यान महासंघसँग आबद्ध व्यक्ति, संस्था, कम्पनी र संस्थालाई अधिकार र लाभ प्रदान र संरक्षण गर्ने । ४. क्यान महासंघका सदस्यहरुलाई सहयोग तथा सुविधा प्रदान गर्ने । ५. सूचना तथा सञ्चार प्रविधिहरुको वकालत, परामर्श र कार्यान्वयन सुनिश्चित गर्न सरकारी समन्वयमा काम गर्ने ।",
+        "क्यानका लक्ष्यहरू यस्ता छन्। १. देशभित्र सूचना तथा कम्प्युटर प्रविधिको उपयोग र प्रचार प्रसारमा सहयोग गर्ने । २. कम्प्युटर विज्ञान सम्बन्धी साक्षरता र सीप विकासका लागि रणनीति विकासमा सहयोग गर्ने । ३. क्यान महासंघसँग आबद्ध व्यक्ति, संस्था, कम्पनी र संस्थालाई अधिकार, विशेषाधिकार र लाभ प्रदान गर्ने । ४. क्यान महासंघका सदस्यहरुलाई सहयोग र सुविधा प्रदान गर्ने । ५. सरकारी समन्वयमा सूचना तथा सञ्चार प्रविधिहरुको वकालत र परामर्श गर्ने ।",
+        "क्यानका प्रमुख लक्ष्यहरू यस प्रकार छन्। १. सूचना तथा कम्प्युटर प्रविधिको उपयोग र प्रचार प्रसारमा सहयोग गर्ने । २. कम्प्युटर विज्ञान सम्बन्धी साक्षरता र सीप विकासका लागि रणनीति विकास गर्ने । ३. क्यान महासंघसँग आबद्ध व्यक्ति, संस्था, कम्पनी र संस्थालाई अधिकार र लाभ प्रदान गर्ने । ४. क्यान महासंघका सदस्यहरुलाई सहयोग र सुविधा प्रदान गर्ने । ५. सूचना तथा सञ्चार प्रविधिहरुको वकालत र कार्यान्वयन सुनिश्चित गर्ने ।",
+        "क्यानका उद्देश्यहरू निम्न छन्। १. सूचना तथा कम्प्युटर प्रविधिको उपयोग र प्रचार प्रसारमा सहयोग गर्ने । २. कम्प्युटर विज्ञान सम्बन्धी साक्षरता र सीप विकासका लागि रणनीति विकास गर्ने । ३. क्यान महासंघसँग आबद्ध व्यक्ति, संस्था, कम्पनी र संस्थालाई अधिकार र विशेषाधिकार प्रदान गर्ने । ४. क्यान महासंघका सदस्यहरुलाई सहयोग र सुविधा प्रदान गर्ने । ५. सूचना तथा सञ्चार प्रविधिहरुको वकालत गर्ने ।",
+        "क्यानका मुख्य उद्देश्यहरू यस्ता छन्। १. देशभित्र सूचना तथा कम्प्युटर प्रविधिको उपयोग र प्रचार प्रसारमा सहयोग पुर्याउने । २. कम्प्युटर विज्ञान सम्बन्धी साक्षरता र सीप विकासका लागि रणनीति विकास गर्ने । ३. क्यान महासंघसँग आबद्ध व्यक्ति, संस्था, कम्पनी र संस्थालाई अधिकार र लाभ प्रदान गर्ने । ४. क्यान महासंघका सदस्यहरुलाई सहयोग र सुविधा प्रदान गर्ने । ५. सूचना तथा सञ्चार प्रविधिहरुको वकालत र परामर्श गर्ने ।"
+    ],
+      "context": [""]
+    },
+    {
+      "tag": "membership",
+      "patterns" : [
+        "How can I become a member?",
+        "What are the membership requirements of can?",
+        "How to join the can organization?",
+        "What is the process for registration to be a member of can?",
+        "Can anyone sign up for membership?",
+        "What does it take to be a member of can federation?",
+        "What are the steps to become a member of CAN?",
+        "How do I apply for membership in CAN?",
+        "What qualifications are needed to join CAN?",
+        "Is there an application process for CAN membership?",
+        "Who can become a member of CAN?",
+        "How can I register as a CAN member?"
+    ],
+    "responses" : [
+        "क्यान महासंघको विधान २०७० (संशोधन सहित) को अनुच्छेद ३ मा (६) वटा बिन्दुमा महासंघमा दिएको भएका सदस्यहरू रहनेछन्। व्यक्तिगत सदस्य जस्का दुई प्रकार छन् जुन हुन् व्यक्तिगत सामान्य सदस्य र व्यक्तिगत आजीवन सदस्य। संस्थागत सदस्य जस्का दुई प्रकार छन् जुन हुन् संस्थागत सामान्य सदस्य र संस्थागत आजीवन सदस्य । त्यसैगरी विषयगत सदस्य,पूर्वकालिन सदस्य र अन्तर्राष्ट्रिय संघ सदस्य पनि सदस्य को प्रकार हुन्।",
+        "क्यान महासंघको विधान २०७० (संशोधन सहित) को अनुच्छेद ३ मा उल्लेखित (६) वटा बिन्दुमा विभिन्न प्रकारका सदस्यता उल्लेख गरिएको छ। व्यक्तिगत सदस्यतामा व्यक्तिगत सामान्य सदस्य र व्यक्तिगत आजीवन सदस्य पर्छन्। संस्थागत सदस्यतामा संस्थागत सामान्य सदस्य र संस्थागत आजीवन सदस्य छन्। यसबाहेक विषयगत सदस्य, पूर्वकालिन सदस्य र अन्तर्राष्ट्रिय संघ सदस्य पनि समावेश छन्।",
+        "क्यान महासंघको विधान २०७० (संशोधन सहित) अनुसार अनुच्छेद ३ मा महासंघमा सदस्यता दिने (६) विभिन्न प्रकारका सदस्य छन्। व्यक्तिगत सदस्यतामा सामान्य र आजीवन सदस्यता पर्छ। संस्थागत सदस्यतामा पनि सामान्य र आजीवन सदस्यता छन्। यस अतिरिक्त, विषयगत सदस्य, पूर्वकालिन सदस्य र अन्तर्राष्ट्रिय संघ सदस्य पनि छन्।",
+        "क्यान महासंघको विधान २०७० (संशोधन सहित) अनुसार, अनुच्छेद ३ मा उल्लेखित (६) विभिन्न प्रकारका सदस्यता छन्। व्यक्तिगत सदस्यतामा सामान्य र आजीवन सदस्यता हुन्छ। संस्थागत सदस्यतामा पनि सामान्य र आजीवन सदस्यता हुन्छ। त्यसैगरी, विषयगत सदस्य, पूर्वकालिन सदस्य र अन्तर्राष्ट्रिय संघ सदस्य पनि समावेश छन्।",
+        "क्यान महासंघको विधान २०७० (संशोधन सहित) को अनुच्छेद ३ मा महासंघमा (६) विभिन्न प्रकारका सदस्यता रहने व्यवस्था छ। व्यक्तिगत सदस्यतामा सामान्य र आजीवन सदस्यता पर्छन्। संस्थागत सदस्यतामा पनि सामान्य र आजीवन सदस्यता छन्। साथै, विषयगत सदस्य, पूर्वकालिन सदस्य र अन्तर्राष्ट्रिय संघ सदस्य पनि सदस्य छन्।",
+        "क्यान महासंघको विधान २०७० (संशोधन सहित) अनुसार, अनुच्छेद ३ मा (६) विभिन्न प्रकारका सदस्यता रहनेछन्। व्यक्तिगत सदस्यतामा सामान्य र आजीवन सदस्यता पर्छ। संस्थागत सदस्यतामा पनि सामान्य र आजीवन सदस्यता छन्। यसबाहेक, विषयगत सदस्य, पूर्वकालिन सदस्य र अन्तर्राष्ट्रिय संघ सदस्य पनि छन्।"
+    ],
+      "context": [""]
+    },
+    {
+      "tag": "programs",
+      "patterns" : [
+        "What programs are offered by the can organization?",
+        "Tell me about the events and activities",
+        "What initiatives are run by can federation?",
+        "Information on the can federations' projects",
+        "What events does CAN Federation organize?",
+        "Can you provide details on CAN's activities?",
+        "What are the key programs of CAN Federation?",
+        "Tell me about CAN's major projects",
+        "What initiatives does CAN organization have?",
+        "What projects are carried out by CAN Federation?",
+        "What activities does CAN Federation conduct?",
+        "What kind of events does CAN organize?",
+        "What is CAN Infotech?",
+        "what do you mean by can infotech",
+        "when does can infotech happen",
+        "Tell us about CAN Infotech."
+    ],
+    "responses" : [
+        "क्यान इन्फोटेक नेपालमा वार्षिक रुपमा हुने एउटा महत्वपूर्ण सूचना प्रविधि प्रदर्शनी हो, जुन प्रायः वर्षको सुरुमा हुने गर्छ, प्रायः जनवरी वा फेब्रुअरी महिनामा । यो नेपालको कम्प्युटर संघ (क्यान महासंघ) द्वारा आयोजना गरिएको हो र आईटी उत्पादन तथा सेवाहरुको प्रदर्शन, सम्मेलन तथा कार्यशालाको सुविधा तथा आईटी व्यवसायी, व्यवसायी तथा विद्यार्थीहरुको लागि सञ्जाल अवसरको प्रवद्र्धन गर्ने मञ्चको रुपमा काम गर्दछ ।",
+        "क्यान इन्फोटेक एक वार्षिक सूचना प्रविधि प्रदर्शनी हो जुन जनवरी वा फेब्रुअरी महिनामा आयोजना गरिन्छ। यो क्यान महासंघ द्वारा आयोजित हुने प्रमुख कार्यक्रम हो जसमा आईटी उत्पादन तथा सेवाहरुको प्रदर्शन, सम्मेलन र कार्यशालाहरु समावेश हुन्छन्। यसले आईटी व्यवसायी, विद्यार्थी तथा अन्य सरोकारवालाहरुका लागि सञ्जाल अवसर प्रदान गर्दछ।",
+        "क्यान महासंघले प्रत्येक वर्ष क्यान इन्फोटेक नामक महत्वपूर्ण सूचना प्रविधि प्रदर्शनी आयोजना गर्दछ। यो कार्यक्रम जनवरी वा फेब्रुअरी महिनामा आयोजना हुन्छ। यसमा आईटी उत्पादन तथा सेवाहरुको प्रदर्शन, सम्मेलन र कार्यशालाहरु समावेश हुन्छन्।",
+        "क्यान इन्फोटेक क्यान महासंघ द्वारा वार्षिक रुपमा आयोजना गरिने प्रमुख सूचना प्रविधि प्रदर्शनी हो। यो जनवरी वा फेब्रुअरी महिनामा आयोजना हुन्छ र यसले आईटी उत्पादन तथा सेवाहरुको प्रदर्शन, सम्मेलन तथा कार्यशालाको सुविधा प्रदान गर्दछ।",
+        "क्यान महासंघले वार्षिक रुपमा आयोजना गर्ने क्यान इन्फोटेक सूचना प्रविधि प्रदर्शनी जनवरी वा फेब्रुअरी महिनामा आयोजना हुन्छ। यसमा आईटी उत्पादन तथा सेवाहरुको प्रदर्शन, सम्मेलन र कार्यशालाहरु समावेश हुन्छन्।",
+        "क्यान इन्फोटेक क्यान महासंघ द्वारा प्रत्येक वर्ष जनवरी वा फेब्रुअरी महिनामा आयोजना गरिने सूचना प्रविधि प्रदर्शनी हो। यसमा आईटी उत्पादन तथा सेवाहरुको प्रदर्शन, सम्मेलन र कार्यशालाहरु हुन्छन्।"
+    ],
+      "context": [""]
+    },
+    {
+      "tag": "committee",
+      "patterns" : [
+        "Tell me about the committee",
+        "What is the role of the committee?",
+        "Who is in the committee?",
+        "Information about the committee members",
+        "Who are the members of the committee?",
+        "What are the responsibilities of the committee?",
+        "Details about the committee",
+        "Can you tell me about the committee members?",
+        "What does the committee do?",
+        "Who are the key members of the committee?",
+        "Tell me about the roles in the committee",
+        "Who holds positions in the committee?"
+    ],
+    "responses" : [
+        "क्यानको समिति यस प्रकार छन्। अध्यक्षः श्री रञ्जितकुमार पोडार ,\n तत्काल पूर्व अध्यक्ष: श्री नवरराज कुँवर,\n वरिष्ठ उपाध्यक्ष: श्री कुशल रेग्मी ,\n उपाध्यक्ष: श्री राजेन्द्र प्रसाद अर्याल , मिस सरिता सिंह , श्री हर्क बहादुर सेती , श्री धुर्बाराज शर्मा ,\n महासचिव: श्री चिरञ्जीबी अधिकारी ,\n कोषाध्यक्ष: श्री नबिन जोशी ,\n सचिव: श्री बुद्ध रत्न मानन्धर ,\n सल्लाहकार: श्री हेमन्त चौरसिया"
+    ],
+      "context": [""]
+    },
+    {
+      "tag": "president_council",
+      "patterns" : [
+        "What is the president council?",
+        "Tell me about the president council",
+        "Role of the president council",
+        "Information on the president council members",
+        "Who are the members of the president council?",
+        "What does the president council do?",
+        "Details about the president council",
+        "Can you tell me about the president council members?",
+        "What is the function of the president council?",
+        "Who is in the president council?",
+        "What are the responsibilities of the president council?",
+        "Tell me about the roles in the president council",
+        "What is the structure of can's main council",
+        "What is can federations main council like?",
+        "What is the head council of this organization",
+        "Who are on the principal committee of this organization."
+    ],
+      "responses": [
+        "क्यानको प्रमुख परिषद यस प्रकार छ। अध्यक्षः डाक्टर बिमल कुमार शर्मा (संस्थापक अध्यक्ष १९९२ देखि १९९४ सम्म)  ,\n सदस्यः श्री संजीवराज भण्डारी (पूर्व अध्यक्ष १९९४ देखि १९९६ सम्म), श्री बिजय कृष्ण श्रेष्ठ (पूर्व अध्यक्ष १९९६ देखि २००० सम्म), श्री लोचन लाल अमात्य (पूर्व अध्यक्ष २००० देखि २००४ सम्म), श्री बिप्लव मान सिंह (पूर्व अध्यक्ष २००४ देखि २००८ सम्म), श्री सुरेश कुमार कर्ण (पूर्व अध्यक्ष २००८ देखि २०१२ सम्म), श्री बिनोद ढकाल (पूर्व अध्यक्ष २०१२ देखि २०१७ सम्म), श्री हेमन्त चौरासिया (पूर्व अध्यक्ष २०१७ देखि २०१९ सम्म), श्री नवरज कुँवर (पूर्व अध्यक्ष २०२० देखि २०२२ सम्म), श्री रणजित कुमार पोडार (हालका अध्यक्ष २०२३ देखि वर्तमान सम्म)"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "president",
+      "patterns" : [
+        "Who is the president?",
+        "Tell me about the president of the organization",
+        "Information on the current president",
+        "Role of the president in the organization",
+        "Who is the present head of the organization?",
+        "Who is the head of the organization?",
+        "Who currently holds the position of president?",
+        "Can you tell me about the president?",
+        "Who is the current president of the organization?",
+        "Who leads the organization currently?",
+        "Who is the president of CAN?",
+        "Who is the current head of CAN?"
+    ],
+      "responses": [
+        "क्यान महासंघका हालका अध्यक्ष श्री रञ्जितकुमार पोडार हुन्। उनी २०२३ मा अध्यक्ष निर्वाचित भएका थिए।"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "founder",
+      "patterns" : [
+        "Who is the founder?",
+        "Tell me about the founder",
+        "Information on the founder of the organization",
+        "Role of the founder",
+        "Who is the founder president?",
+        "Who is the first president of the organization?",
+        "Who was the first head of the organization?",
+        "Can you tell me about the founder of the organization?",
+        "Who established the organization?",
+        "Who is credited with founding the organization?",
+        "What can you tell me about the founder?",
+        "Who initiated the organization?",
+        "I was the first head of this organization.",
+        "He was the first head of this organization."
+    ],
+      "responses": [
+        "क्यानको पहिलो प्रमुख डाक्टर बिमल कुमार शर्मा थिए। उनी संस्थाको संस्थापक प्रमुख पनि हुनुहुन्थ्यो। उनको कार्यकाल १९९२ देखि १९९४ सम्म थियो।"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "achievements",
+      "patterns": [
+        "What are the achievements of the can organization?",
+        "Tell me about the can organization's accomplishments",
+        "What has can federation achieved?",
+        "List the achievements of can",
+        "what has can done so far?"
+      ],
+      "responses": [
+        "क्यानको उपलब्धिहरू यस प्रकार छन्। १. प्रथम उद्योग सरकारको संवाद, २. क्यान इन्फोटेक, क्यान सफ्टटेक, क्यान कमटेक, राष्ट्रिय सूचना तथा सञ्चार प्रविधि दिवस, सूचना तथा सञ्चार प्रविधि उत्कृष्टता पुरस्कार, व्यवसायदेखि व्यवसाय सम्मलेन, राष्ट्रिय, प्रदेश र जिल्लास्तरको सूचना तथा सञ्चार प्रविधि सम्मेलन जस्ता वार्षिक कार्यक्रमहरु आयोजना गरी राष्ट्रिय तथा अन्तर्राष्ट्रिय स्तरमा मान्यता प्राप्त भएका छन्।, ३. क्यान-अमेरिका र क्यान जापानको सदस्यतामा स्थापना भएको छ।, ४. क्यान महासंघको देशभर ७४ जिल्ला शाखा छन्।, ५. क्यान महासंघको राष्ट्रिय तथा अन्तर्राष्ट्रिय मञ्चमा सहभागिता।, ६. क्यान महासंघले अन्तर्राष्ट्रिय सूचना तथा सञ्चार प्रविधि सम्मेलन सञ्चालन गर्नेछ।, ७. क्यान महासंघले क्षेत्रीय सञ्जाल बैठक तथा क्षमता विकास तालिम कार्यक्रम नियमित रुपमा सञ्चालन गर्छ।, ८.युए दिवसको प्रचार प्रसार"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "personal member",
+      "patterns": [
+        "How to become a personal member",
+        "How can I apply for personal membership",
+        "what should i do to become a personal member",
+        "what criterias should i meet to become a personal member",
+        "How to become an individual member",
+        "How can I apply for individual membership",
+        "what should i do to become a individual member",
+        "what criterias should i meet to become a indiviudal member",
+        "How to become an individual member in CAN?"
+      ],
+      "responses": [
+        "व्यक्तिगत सदस्य हुनका लागि कम्प्यूटर, कम्प्यूटर विज्ञान र सूचना प्रविधिको क्षेत्रमा स्नातक तहका शैक्षिक योग्यता हासिल गरेका व्यक्ति महासंघको सामान्य सदस्यता प्राप्त गर्न सक्छन्।"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "Institutional member",
+      "patterns": [
+        "What should an organization do to get membership",
+        "how to become institutional member",
+        "what criterias should organization meet to become an institutional member"
+      ],
+      "responses": [
+        "कार्यरत निकाय, संस्थाहरू काठमाण्डौं उपत्यकाको हकमा केन्द्रबाट साधारण सदस्यता प्राप्त गर्न सक्छन्। नियामक, संस्था नै केन्द्रित प्रतिकूलता सम्बन्धित संस्थागत आवासीय सदस्यता प्राप्त गर्न सक्छन्।"
+      ],
+      "context": [""]
+    }
+  ]
+}
