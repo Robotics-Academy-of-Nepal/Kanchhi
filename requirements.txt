@@ -1,0 +1,5 @@
+torch
+transformers
+sentencepiece
+azure-cognitiveservices-speech
+azure-ai-translation-text==1.0.0b1
